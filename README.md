@@ -1,1 +1,1 @@
-# -ci-cd-project-blob-main-setup.cfg
+# (https://github.com/mohsinmirza/ci-cd-project/blob/main/setup.cfg)
